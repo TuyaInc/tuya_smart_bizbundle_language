@@ -47,6 +47,21 @@
       "devManualAndSmart",
       "createRNSceneTask",
       "houseScene"
+    ],
+    "com.tuya.smart.feedback.FeedbackApp": [
+      "helpAndFeedBack",
+      "add_feedback",
+      "feedback_list",
+      "helpCenter",
+      "chooseFeedbackType"
+    ],
+    "com.tuya.smart.netdiagnosis.NetDiagnosisModuleApp": [
+      "netdiagnosis_home"
+    ],
+    "com.tuya.smart.message.MessageApp": [
+      "messageCenter",
+      "message_details",
+      "push_setting"
     ]
   },
   "serviceMap": {
@@ -55,7 +70,9 @@
     "com.tuya.smart.camera.rctpackage.caller.api.CameraRCTPackageCallerService": "com.tuya.smart.camera.rctpackage.caller.CameraRCTPackageCallerServiceImpl",
     "com.tuya.smart.scene.api.SceneDataService": "com.tuya.smart.scene.SceneDataServiceImpl",
     "com.tuya.smart.scene.business.api.ITuyaSceneBusinessService": "com.tuya.smart.scene.TuyaSceneBusinessManager",
-    "com.tuya.smart.commonbiz.api.family.AbsFamilyService": "com.tuya.smart.commonbiz.family.outside.FamilyService"
+    "com.tuya.smart.commonbiz.api.family.AbsFamilyService": "com.tuya.smart.commonbiz.family.outside.FamilyService",
+    "com.tuya.smart.feedback.api.FeedbackService": "com.tuya.smart.feedback.FeedbackServiceImpl",
+    "com.tuya.smart.message.api.MessageService": "com.tuya.smart.message.MessageServiceImpl"
   },
   "eventMap": {
     "global_user_event": [
