@@ -1929,6 +1929,14 @@
     <string name="ty_message_allow_yes">接收</string>
     <string name="ty_message_dnd_device_count_tip">不接收 %d 个设备的告警消息推送</string>
     <string name="ty_message_family_enable">家庭</string>
+    <string name="ty_message_had_read">已读</string>
+    <string name="ty_message_had_read_all">全部已读</string>
+    <string name="ty_message_info_selected_too_many">勾选数量需低于 %d 个</string>
+    <string name="ty_message_item_selected">已选 %d 个</string>
+    <string name="ty_message_more">通知类型设置</string>
+    <string name="ty_message_more_normal_push">系统公告</string>
+    <string name="ty_message_more_other_push">营销消息</string>
+    <string name="ty_message_more_push_setting_title">更多通知设置</string>
     <string name="ty_message_notice_enable">通知</string>
     <string name="ty_message_push_enable">启⽤消息推送</string>
     <string name="ty_message_push_title">消息推送设置</string>

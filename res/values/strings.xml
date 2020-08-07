@@ -1920,6 +1920,7 @@
     <string name="ty_messageCenter_change_home">Switch home</string>
     <string name="ty_messageCenter_deviceRemove_tips">This device has been removed</string>
     <string name="ty_messageCenter_deviceShowInHome_tips">The device is at %s home</string>
+    <string name="ty_message_alarm_dnd_schedule">ty_message_alarm_dnd_schedule</string>
     <string name="ty_message_alarm_dnd_schedule_none">Not set</string>
     <string name="ty_message_alarm_dnd_schedule_off">OFF</string>
     <string name="ty_message_alarm_dnd_schedule_on">ON</string>
@@ -1928,7 +1929,16 @@
     <string name="ty_message_allow_no">Not allow</string>
     <string name="ty_message_allow_yes">Allow</string>
     <string name="ty_message_dnd_device_count_tip">Notifications for %d devices will be mute</string>
+    <string name="ty_message_dnd_schedule_add">ty_message_dnd_schedule_add</string>
     <string name="ty_message_family_enable">Home</string>
+    <string name="ty_message_had_read">Mark as read</string>
+    <string name="ty_message_had_read_all">Mark all as read</string>
+    <string name="ty_message_info_selected_too_many">Please select no more than %d</string>
+    <string name="ty_message_item_selected">%d selected</string>
+    <string name="ty_message_more">Notification Settings</string>
+    <string name="ty_message_more_normal_push">System Notification</string>
+    <string name="ty_message_more_other_push">Marketing Message</string>
+    <string name="ty_message_more_push_setting_title">More</string>
     <string name="ty_message_notice_enable">Bulletin</string>
     <string name="ty_message_push_enable">Enable notifications</string>
     <string name="ty_message_push_title">Notifications Settings</string>
