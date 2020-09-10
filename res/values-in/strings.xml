@@ -200,7 +200,7 @@
   <string name="config_sub_device_help_list_title">Bagaimana saya menjadikan perangkat ke mode pairing?</string>
   <string name="config_sub_device_search_config_confirm_tip">Pastikan perangkat ada dalam mode pairing</string>
   <string name="config_sub_device_search_config_success_tip">%d perangkat sudah ditambahkan dengan sukses</string>
-  <string name="config_sub_device_search_config_tip">Sedang menemukan perangkat Zigbee terdekat</string>
+  <string name="config_sub_device_search_config_tip">Sedang menemukan perangkat terdekat</string>
   <string name="config_sub_device_search_config_title">Melacak perangkat</string>
   <string name="config_wifi">Perangkat sudah terikat.</string>
   <string name="confirm_delete">Hapus</string>
@@ -627,7 +627,6 @@
   <string name="ipc_doorbell_bell_2">Nada Dering 2</string>
   <string name="ipc_doorbell_bell_3">Nada Dering 3</string>
   <string name="ipc_doorbell_bell_4">Nada Dering 4</string>
-  <string name="ipc_doorbell_call_txt">Bell pintu sedang berdering. Menunggu jawaban…</string>
   <string name="ipc_doorbell_decline">Tolak</string>
   <string name="ipc_doorbell_file_authority">Untuk pengalaman yang leih baik, aplikasi akan membunyikan dering ponsel anda setiap kali pintu berbunyi, dan karena alasan itu kami membutuhkan akses ke files ponsel anda.</string>
   <string name="ipc_doorbell_pic_load_fail_txt">Gagal memuat gambar</string>
@@ -1411,7 +1410,6 @@
   <string name="speech_tip_add_to_desktop_tip">Setelah menambahkan asisten suara ke layar beranda, Anda dapat mengetuk shortcut-nya di layar beranda dan menggunakan kontrol suara.</string>
   <string name="speech_tip_no_again">Tidak ada lagi notifikasi</string>
   <string name="speech_tip_try_add_to_desktop">Jika shortcut gagal untuk ditambahkan, mohon aktifkan shortcut untuk %s di halaman depan di Pengaturan.</string>
-  <string name="speech_try_add_to_desktop">%s telah mencoba untuk menambahkan shortcut kepada home screen</string>
   <string name="speech_you_can_do">Anda dapat meminta saya untuk:</string>
   <string name="speech_you_can_speech">Anda bisa mengatakan:</string>
   <string name="start_smart_life">Memulai smart life</string>
@@ -1944,7 +1942,7 @@
   <string name="ty_save_room_suc">Tersimpan</string>
   <string name="ty_scanning_fail">Pindai kode QR perangkat</string>
   <string name="ty_scanning_remind">Pastikan kode QR atau barcode ada di dalam bingkai untuk bisa scan</string>
-  <string name="ty_scanning_skip">Pergi to\n</string>
+  <string name="ty_scanning_skip">Pergi to</string>
   <string name="ty_scene">Skenario</string>
   <string name="ty_scene_and_automation">Skenario Pintar dan Otomasi</string>
   <string name="ty_scene_dp_duration">Durasi</string>
